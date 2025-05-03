@@ -10,7 +10,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyBW7kNstIHfaLTicWKs87Ckj5_TJ5ne_Yc",
   authDomain: "furiaforms.firebaseapp.com",
   projectId: "furiaforms",
-  storageBucket: "furiaforms.appspot.com", // corrigido
+  storageBucket: "furiaforms.appspot.com",
   messagingSenderId: "113773243194",
   appId: "1:113773243194:web:cbfe4f00d57a57d419fe03",
   measurementId: "G-56CGR732N3"

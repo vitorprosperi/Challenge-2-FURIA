@@ -1,0 +1,20 @@
+{
+  "perguntas": [
+    {
+      "titulo": "Interesses",
+      "opcoes": ["Tecnologia", "Esportes", "Música", "Arte"]
+    },
+    {
+      "titulo": "Atividades",
+      "opcoes": ["Caminhada", "Leitura", "Jogos", "Viagens"]
+    },
+    {
+      "titulo": "Eventos",
+      "opcoes": ["Shows", "Conferências", "Workshops", "Feiras"]
+    },
+    {
+      "titulo": "Compras",
+      "opcoes": ["Eletrônicos", "Roupas", "Livros", "Alimentos"]
+    }
+  ]
+}
